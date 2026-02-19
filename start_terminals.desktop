@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Startup Terminals
+Exec=/home/USERNAME/.local/bin/start_my_terminals.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Comment=Launch separate WezTerm windows with delays for proper tiling
